@@ -4,7 +4,7 @@
 Project used for finding the perfect alternatives to the allergy causing foods and also finding the calorie content of the aleergen
 <br>
 
-**Tech stack:**
-**Backend-** MySQL
-**Frontend-** Django, HTML, CSS
+**Tech stack:** <br/>
+**Backend-** MySQL <br/>
+**Frontend-** Django, HTML, CSS <br/>
 **Programming Language-** Python
